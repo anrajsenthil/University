@@ -1,0 +1,17 @@
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.Test.deps.json
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.Test.runtimeconfig.json
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.Test.runtimeconfig.dev.json
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.Test.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.Test.pdb
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\bin\Debug\netcoreapp2.2\University.Api.Courses.pdb
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.csprojAssemblyReference.cache
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.csproj.CoreCompileInputs.cache
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.AssemblyInfoInputs.cache
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.AssemblyInfo.cs
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.csproj.CopyComplete
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.dll
+D:\MicroserviceProject\University\University.Api.Courses.Test\obj\Debug\netcoreapp2.2\University.Api.Courses.Test.pdb

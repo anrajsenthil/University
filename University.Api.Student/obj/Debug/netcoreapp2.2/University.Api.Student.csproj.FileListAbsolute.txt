@@ -1,0 +1,14 @@
+D:\MicroserviceProject\University\University.Api.Student\bin\Debug\netcoreapp2.2\University.Api.Student.deps.json
+D:\MicroserviceProject\University\University.Api.Student\bin\Debug\netcoreapp2.2\University.Api.Student.runtimeconfig.json
+D:\MicroserviceProject\University\University.Api.Student\bin\Debug\netcoreapp2.2\University.Api.Student.runtimeconfig.dev.json
+D:\MicroserviceProject\University\University.Api.Student\bin\Debug\netcoreapp2.2\University.Api.Student.dll
+D:\MicroserviceProject\University\University.Api.Student\bin\Debug\netcoreapp2.2\University.Api.Student.pdb
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.csprojAssemblyReference.cache
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.csproj.CoreCompileInputs.cache
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.RazorAssemblyInfo.cache
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.RazorAssemblyInfo.cs
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.AssemblyInfoInputs.cache
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.AssemblyInfo.cs
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.RazorTargetAssemblyInfo.cache
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.dll
+D:\MicroserviceProject\University\University.Api.Student\obj\Debug\netcoreapp2.2\University.Api.Student.pdb
